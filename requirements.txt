@@ -2,3 +2,4 @@ streamlit
 feedparser
 pandas
 textblob
+groq
